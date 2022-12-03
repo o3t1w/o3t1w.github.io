@@ -1,13 +1,16 @@
-# 🕵️‍ Malfrat's OSINT Map
-## [🗺 Available here !](https://map.malfrats.industries)
+
+# 🔎O3T1W's OSINT Tree Map🗺
+<p align="center"><img src="https://osintsumo.com/assets/logo-cppgxvgf.png"></br></p>
+
+## [🗺 Available here VISIT TO VIEW THE MAP !](https://o3t1w.github.io/tree/)
 <img src="assets/osint-map.png" style="width: 85%">
 
-[**Malfrat's OSINT Map**](https://map.malfrats.industries) is **an online tree** of selected useful tools **made for OSINT** purposes,\
+[**O3T1W's OSINT Tree Map**](https://o3t1w.github.io/tree) is **an online OSINT tools mind map** of selected useful tools **made for OSINT** purposes,\
 made to **help you during your investigations** 👀
-
-_It is an up-to-date and remastered version of osintframework.com, who isn't updated anymore._
+``project was inspired by https://github.com/Malfrats/OSINT-Map``
+_It is an up-to-date and remastered version of osintframework.com, which isn't updated anymore._
 ## 📥 Add a tool
-To add a tool to the map, follow [this guide](https://github.com/Malfrats/OSINT-Map/blob/main/ADD.md).
+To add a tool to the map, follow [this guide](https://github.com/o3t1w/o3t1w.github.io/blob/main/tree/ADD.md).
 ## 🏁 Legend
 Emoji | Meaning
 :-: | :-:
@@ -19,7 +22,4 @@ Emoji | Meaning
 🧅 | **Leads to a `.onion` website**
 🧩 | **Browser extension**
 ❗️ | **Offensive-OSINT that might alert the target**
-## 📢 For Update Notifications
-Twitter -> [@malfratsind](https://twitter.com/malfratsind)\
-Discord -> [Malfrats Industries](https://discord.gg/r3GMnHVx5H)\
-Watch or star [the project](https://github.com/malfrats/osint-map) on Github
+
