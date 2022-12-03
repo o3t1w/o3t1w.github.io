@@ -1,5 +1,5 @@
 
-# 🔎O3T1W's OSINT Tree Map🗺
+# 🔎O3T1W's OSINT Tools Map🗺
 <p align="center"><img src="https://osintsumo.com/assets/logo-cppgxvgf.png"></br></p>
 
 ## [🗺 Available here VISIT TO VIEW THE MAP !](https://o3t1w.github.io/tree/)
