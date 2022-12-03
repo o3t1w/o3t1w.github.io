@@ -1,21 +1,13 @@
-# 🧩 Add your resources to [Malfrat's OSINT Map](https://map.malfrats.industries)
-- **Fork [the repository](https://github.com/Malfrats/OSINT-Map)**
-- You should now be in your forked repository.
-  - _If not, go to `https://github.com/<YOUR USERNAME>/OSINT-Map`, and then you're in._
+
+# ➕ Add your resources to [O3T1W's OSINT Tools Map](https://o3t1w.github.io/tree/)
+
 - **Go in `/database.json`**
 - **Edit the file** then **save it**.
   - _If you want your project to be merged, follow the rules and tutorial following this part._
-- Submit a **pull request**, and wait for your project being merged to Malfrat's OSINT MAP !
-## 📏 Rules:
-Every pull request will be reviewed, and if it does not meet the following guidelines, will be declined.
-1. The tool **must be in a branch**, and **respect the specific syntax** (specified at the next section).
-2. If the tool is **not related to OSINT**, the pull request **will (_obviously_) be delined**.
-    - _We will be rigorous in our choices regarding the contributions to keep the osint map consistent and attractive to the greatest number without degrading its quality, thank you for respecting this._
-3. Please **put the resources useful for a single region in its corresponding location name** in `Specific Regions`.
-    - _If the region / country doesn't exist, you can create it and add its flag after a space at the end (if it doesn't have a flag, a symbol of this region)._
+
 ## 🖌 Syntax
 1. Resources names:
-    - For the legend, specify **one** or **many emoji(s) from [this legend](https://github.com/Malfrats/OSINT-Map#-legend)**. _If there's many emojis, do not add space between them._
+    - For the legend, specify **one** or **many emoji(s) from [this legend](https://github.com/o3t1w/o3t1w.github.io/tree/main/tree#-legend)**. _If there are many emojis, do not add space between them._
     - Add a space.
     - Add the name of your resource. It can contain spaces.
 2. Branch names:
@@ -75,4 +67,3 @@ Now, let's say I want to add a tool to my brand new branch `Beta`:
     }
 }
 ```
-## 😉 See you soon in pull requests !
