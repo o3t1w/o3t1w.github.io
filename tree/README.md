@@ -22,5 +22,6 @@ Emoji | Meaning
 🪙 | **Useful tool even without purchases**
 🧅 | **Leads to a `.onion` website**
 🧩 | **Browser extension**
+🤖 | **BOT**
 ❗️ | **Offensive-OSINT that might alert the target**
 
