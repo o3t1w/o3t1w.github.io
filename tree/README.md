@@ -7,7 +7,6 @@
 
 [**O3T1W's OSINT Tree Map**](https://o3t1w.github.io/tree) is **an online OSINT tools mind map** of selected useful tools **made for OSINT** purposes,\
 made to **help you during your investigations** 
-👀``project was inspired and tweaked from https://github.com/Malfrats/OSINT-Map``
 
 _It is an up-to-date and remastered version of osintframework.com, which isn't updated anymore._
 ## 📥 Add a tool
